@@ -15,7 +15,10 @@ inspired by [Awesome Python](https://github.com/vinta/awesome-python)
 
 ## Desktop UIs
 ## Web UIs
-| [Open Webui](https://github.com/open-webui/open-webui) | --- | --- | --- |
+|Name/Github| Description |
+|--|--|
+|  [Open Webui](https://github.com/open-webui/open-webui) | Open Source :heavy_check_mark: <br /> Image To text :heavy_check_mark: <br /> Multi Model Chats :heavy_check_mark:
+
 ## Mobile Apps
 ## Terminal
 ## Databases
