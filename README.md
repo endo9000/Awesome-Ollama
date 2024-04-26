@@ -14,11 +14,15 @@ inspired by [Awesome Python](https://github.com/vinta/awesome-python)
     - [Extensions & Plugins](https://github.com/endo9000/awesome-ollama?tab=readme-ov-file#extensions-plugins)
 
 ## Desktop UIs
+|Name/Github| Description |
+|--|--|
+|  [Enchanted](https://github.com/open-webui/open-webui) | Mac OS native :heavy_check_mark: <br /> |
 ## Web UIs
 |Name/Github| Description |
 |--|--|
-|  [Open Webui](https://github.com/open-webui/open-webui) | Open Source :heavy_check_mark: <br /> Image To text :heavy_check_mark: <br /> Multi Model Chats :heavy_check_mark: |
-|[LLM-X](https://github.com/mrdjohnson/llm-x) | Works without installing :heavy_check_mark: <br /> Open Source :heavy_check_mark: <br /> Image To text :heavy_check_mark: <br />  |
+|  [Open Webui](https://github.com/open-webui/open-webui) | Open Source :heavy_check_mark: <br /> Image To text :heavy_check_mark: <br /> Multi Model Chats :heavy_check_mark: <br /> |
+|[LLM-X](https://github.com/mrdjohnson/llm-x) | Works without installing :heavy_check_mark: <br /> Open Source :heavy_check_mark: <br /> Image To text :heavy_check_mark: <br /> |
+|  [Lollms-Webui](https://github.com/ParisNeo/lollms-webui) | Text to image :heavy_check_mark: <br /> Text to video :heavy_check_mark: <br /> Text to music :heavy_check_mark: <br /> |
 
 ## Mobile Apps
 ## Terminal
