@@ -18,7 +18,7 @@ inspired by [Awesome Python](https://github.com/vinta/awesome-python)
 |--|--|--|
 |  [Open Webui](https://github.com/open-webui/open-webui) | Open Source :heavy_check_mark: <br /> Image To text :heavy_check_mark: <br /> Multi Model Chats :heavy_check_mark: <br /> | Docker <br /> npm |
 |  [LLM-X](https://github.com/mrdjohnson/llm-x) | Works without installing :heavy_check_mark: <br /> Open Source :heavy_check_mark: <br /> Image To text :heavy_check_mark: <br /> | [Website](https://mrdjohnson.github.io/llm-x/) <br /> npm |
-|  [Enchanted](https://github.com/open-webui/open-webui) | Mac OS native :heavy_check_mark: <br /> |  |
+|  [Enchanted](https://github.com/AugustDev/enchanted) | Mac OS native :heavy_check_mark: <br /> | Mac OS Native |
 |  [BionicGPT](https://github.com/bionic-gpt/bionic-gpt) | | Docker <br /> Curl |
 |  [Ollamac](https://github.com/kevinhermawan/Ollamac) | | Download |
 |  [Amica](https://github.com/semperai/amica) | | npm |
@@ -36,6 +36,22 @@ inspired by [Awesome Python](https://github.com/vinta/awesome-python)
 |  [Ollama-SwiftUI](https://github.com/kghandour/Ollama-SwiftUI) | | Download |
 |  [Dify.AI](https://github.com/langgenius/dify) | | [Website](https://dify.ai/) <br /> Docker |
 |  [Lollms-Webui](https://github.com/ParisNeo/lollms-webui) | Text to image :heavy_check_mark: <br /> Text to video :heavy_check_mark: <br /> Text to music :heavy_check_mark: <br /> | Download |
+|  [NextJS Web Interface for Ollama](https://github.com/jakobhoeg/nextjs-ollama-llm-ui) | |
+|  [Alpaca WebUI](https://github.com/mmo80/alpaca-webui) | |
+|  [OllamaGUI](https://github.com/enoch1118/ollamaGUI) | |
+|  [Odin Runes](https://github.com/leonid20000/OdinRunes) | |
+|  [Ollama Basic Chat: Uses HyperDiv Reactive UI](https://github.com/rapidarchitect/ollama_basic_chat) | |
+|  [Ollama-chats RPG](https://github.com/drazdra/ollama-chats) | |
+|  [QA-Pilot: Chat with Code Repository](https://github.com/reid41/QA-Pilot) | |
+|  [ChatOllama](https://github.com/sugarforever/chat-ollama) | |
+|  [CRAG Ollama Chat](https://github.com/Nagi-ovo/CRAG-Ollama-Chat) | |
+|  [RAGFlow](https://github.com/infiniflow/ragflow) | |
+|  [chat: chat web app for teams](https://github.com/swuecho/chat) | |
+|  [Lobe Chat](https://github.com/lobehub/lobe-chat) | |
+|  [Ollama RAG Chatbot](https://github.com/datvodinh/rag-chatbot) | |
+|  [Msty](https://msty.app/) | |
+|  [Chatbox](https://github.com/Bin-Huang/Chatbox) | |
+|  [WinForm Ollama Copilot](https://github.com/tgraupmann/WinForm_Ollama_Copilot) | |
 
 ## Mobile Apps
 ## Terminal
