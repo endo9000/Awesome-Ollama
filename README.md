@@ -17,6 +17,8 @@ inspired by [Awesome Python](https://github.com/vinta/awesome-python)
 |--|--|--|
 |  [Open Webui](https://github.com/open-webui/open-webui) | Open Source :heavy_check_mark: <br /> Image To text :heavy_check_mark: <br /> Multi Model Chats :heavy_check_mark: <br /> | Docker <br /> npm |
 |  [LLM-X](https://github.com/mrdjohnson/llm-x) | Works without installing :heavy_check_mark: <br /> Open Source :heavy_check_mark: <br /> Image To text :heavy_check_mark: <br /> | [Website](https://mrdjohnson.github.io/llm-x/) <br /> npm |
+|  [Ollama Grid Search](https://github.com/dezoito/ollama-grid-search) | |
+|  [Ollama-chats RPG](https://github.com/drazdra/ollama-chats) | |
 |  [Enchanted](https://github.com/AugustDev/enchanted) | Mac OS native :heavy_check_mark: <br /> | Mac OS Native |
 |  [BionicGPT](https://github.com/bionic-gpt/bionic-gpt) | | Docker <br /> Curl |
 |  [Ollamac](https://github.com/kevinhermawan/Ollamac) | | Download |
@@ -40,7 +42,6 @@ inspired by [Awesome Python](https://github.com/vinta/awesome-python)
 |  [OllamaGUI](https://github.com/enoch1118/ollamaGUI) | |
 |  [Odin Runes](https://github.com/leonid20000/OdinRunes) | |
 |  [Ollama Basic Chat: Uses HyperDiv Reactive UI](https://github.com/rapidarchitect/ollama_basic_chat) | |
-|  [Ollama-chats RPG](https://github.com/drazdra/ollama-chats) | |
 |  [QA-Pilot: Chat with Code Repository](https://github.com/reid41/QA-Pilot) | |
 |  [ChatOllama](https://github.com/sugarforever/chat-ollama) | |
 |  [CRAG Ollama Chat](https://github.com/Nagi-ovo/CRAG-Ollama-Chat) | |
@@ -54,7 +55,6 @@ inspired by [Awesome Python](https://github.com/vinta/awesome-python)
 |  [macai](https://github.com/Renset/macai) | |
 |  [Fusion Quill](https://FusionQuill.AI) | |
 |  [BrainSoup](https://www.nurgo-software.com/products/brainsoup) | |
-|  [Ollama Grid Search](https://github.com/dezoito/ollama-grid-search) | |
 |  [BoltAI](https://boltai.com) | |
 |  [Ollama4j](https://github.com/ollama4j/ollama4j-web-ui) | |
 
