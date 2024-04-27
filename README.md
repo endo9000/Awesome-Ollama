@@ -51,6 +51,12 @@ inspired by [Awesome Python](https://github.com/vinta/awesome-python)
 |  [Msty](https://msty.app/) | |
 |  [Chatbox](https://github.com/Bin-Huang/Chatbox) | |
 |  [WinForm Ollama Copilot](https://github.com/tgraupmann/WinForm_Ollama_Copilot) | |
+|  [macai](https://github.com/Renset/macai) | |
+|  [Fusion Quill](https://FusionQuill.AI) | |
+|  [BrainSoup](https://www.nurgo-software.com/products/brainsoup) | |
+|  [Ollama Grid Search](https://github.com/dezoito/ollama-grid-search) | |
+|  [BoltAI](https://boltai.com) | |
+|  [Ollama4j](https://github.com/ollama4j/ollama4j-web-ui) | |
 
 ## Mobile Apps
 ## Terminal
