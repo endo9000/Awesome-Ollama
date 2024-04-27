@@ -4,8 +4,7 @@ a list of tools and frameworks you can use with [Ollama](https://github.com/olla
 inspired by [Awesome Python](https://github.com/vinta/awesome-python)
 
 - [Awesome Ollama](https://github.com/endo9000/awesome-ollama?tab=readme-ov-file#awesome-ollama)
-    - [Desktop UIs](https://github.com/endo9000/awesome-ollama?tab=readme-ov-file#desktop-uis)
-    - [Web UIs](https://github.com/endo9000/awesome-ollama?tab=readme-ov-file#web-uis)
+    - [Web & Desktop & Mobile UIs](https://github.com/endo9000/awesome-ollama?tab=readme-ov-file#web--desktop-uis)
     - [Mobile Apps](https://github.com/endo9000/awesome-ollama?tab=readme-ov-file#mobile-apps)
     - [Terminal](https://github.com/endo9000/awesome-ollama?tab=readme-ov-file#terminal)
     - [Databases](https://github.com/endo9000/awesome-ollama?tab=readme-ov-file#databases)
