@@ -57,7 +57,7 @@ inspired by [Awesome Python](https://github.com/vinta/awesome-python)
 ## Miscellaneous
 |Name/Link|  Description | Install Type |
 |--|--|--|
-|  [AiLama](https://github.com/zeyoyt/ailama) | Open Source :heavy_check_mark: <br /> Discord User App heavy_check_mark: <br /> Multi Function :heavy_check_mark: <br /> | Gradle+Java <br /> Docker
+|  [AiLama](https://github.com/zeyoyt/ailama) | Open Source :heavy_check_mark: <br /> Discord User App :heavy_check_mark: <br /> Multi Function :heavy_check_mark: <br /> | Gradle+Java <br /> Docker
 
 ## Mobile Apps
 ## Terminal
