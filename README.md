@@ -37,16 +37,15 @@ inspired by [Awesome Python](https://github.com/vinta/awesome-python)
 |  [Ollama-SwiftUI](https://github.com/kghandour/Ollama-SwiftUI) | | Download |
 |  [Dify.AI](https://github.com/langgenius/dify) | | [Website](https://dify.ai/) <br /> Docker |
 |  [Lollms-Webui](https://github.com/ParisNeo/lollms-webui) | Text to image :heavy_check_mark: <br /> Text to video :heavy_check_mark: <br /> Text to music :heavy_check_mark: <br /> | Download |
-|  [NextJS Web Interface for Ollama](https://github.com/jakobhoeg/nextjs-ollama-llm-ui) | |
-|  [Alpaca WebUI](https://github.com/mmo80/alpaca-webui) | |
-|  [OllamaGUI](https://github.com/enoch1118/ollamaGUI) | |
-|  [Odin Runes](https://github.com/leonid20000/OdinRunes) | |
-|  [Ollama Basic Chat: Uses HyperDiv Reactive UI](https://github.com/rapidarchitect/ollama_basic_chat) | |
-|  [Ollama-chats RPG](https://github.com/drazdra/ollama-chats) | |
-|  [QA-Pilot: Chat with Code Repository](https://github.com/reid41/QA-Pilot) | |
-|  [ChatOllama](https://github.com/sugarforever/chat-ollama) | |
-|  [CRAG Ollama Chat](https://github.com/Nagi-ovo/CRAG-Ollama-Chat) | |
-|  [RAGFlow](https://github.com/infiniflow/ragflow) | |
+|  [NextJS Web Interface for Ollama](https://github.com/jakobhoeg/nextjs-ollama-llm-ui) | | npm |
+|  [Alpaca WebUI](https://github.com/mmo80/alpaca-webui) | | npm |
+|  [OllamaGUI](https://github.com/enoch1118/ollamaGUI) | | cocoapods |
+|  [Odin Runes](https://github.com/leonid20000/OdinRunes) | | maven + java |
+|  [Ollama Basic Chat](https://github.com/rapidarchitect/ollama_basic_chat) | | python |
+|  [QA-Pilot: Chat with Code Repository](https://github.com/reid41/QA-Pilot) | | python <br /> streamlit |
+|  [ChatOllama](https://github.com/sugarforever/chat-ollama) | | npm |
+|  [CRAG Ollama Chat](https://github.com/Nagi-ovo/CRAG-Ollama-Chat) | | streamlit |
+|  [RAGFlow](https://github.com/infiniflow/ragflow) | | [Website](https://ragflow.io/) <br /> docker <br /> local-server |
 |  [chat: chat web app for teams](https://github.com/swuecho/chat) | |
 |  [Lobe Chat](https://github.com/lobehub/lobe-chat) | |
 |  [Ollama RAG Chatbot](https://github.com/datvodinh/rag-chatbot) | |
