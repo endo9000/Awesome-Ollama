@@ -59,6 +59,10 @@ inspired by [Awesome Python](https://github.com/vinta/awesome-python)
 |  [AiLama](https://github.com/zeyoyt/ailama) | Open Source :heavy_check_mark: <br /> Discord User App :heavy_check_mark: <br /> Multi Function :heavy_check_mark: <br /> | Gradle+Java <br /> Docker
 
 ## Mobile Apps
+|Name/Link|  Description | Install Type |
+|--|--|--|
+|  [Enchanted](https://github.com/AugustDev/enchanted) | Native macOS and iOS app :heavy_check_mark: <br /> | iOS :heavy_check_mark: <br /> macOS :heavy_check_mark: 
+|  [Maid](https://github.com/Mobile-Artificial-Intelligence/maid) | Open Source :heavy_check_mark: <br /> | Android :heavy_check_mark: <br />
 ## Terminal
 ## Databases
 ## Package Manager
