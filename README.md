@@ -5,11 +5,10 @@ a list of tools and frameworks you can use with [Ollama](https://github.com/olla
 inspired by [Awesome Python](https://github.com/vinta/awesome-python)
 
 - [Awesome Ollama](https://github.com/endo9000/awesome-ollama?tab=readme-ov-file#awesome-ollama)
-  - [Desktop UIs](https://github.com/endo9000/awesome-ollama?tab=readme-ov-file#desktop-uis)
+  - [Web & Desktop UIs](https://github.com/endo9000/Awesome-Ollama?tab=readme-ov-file#web--desktop-uis)
+  - [Mobile Apps](https://github.com/endo9000/awesome-ollama?tab=readme-ov-file#mobile-apps)
   - [Miscellaneous](https://github.com/endo9000/awesome-ollama?tab=readme-ov-file#miscellaneous)
   - [Model Evaluation and Testing Tools](https://github.com/endo9000/awesome-ollama?tab=readme-ov-file#model-evaluation-and-testing-tools)
-  - [Web UIs](https://github.com/endo9000/awesome-ollama?tab=readme-ov-file#web-uis)
-  - [Mobile Apps](https://github.com/endo9000/awesome-ollama?tab=readme-ov-file#mobile-apps)
   - [Terminal](https://github.com/endo9000/awesome-ollama?tab=readme-ov-file#terminal)
   - [Databases](https://github.com/endo9000/awesome-ollama?tab=readme-ov-file#databases)
   - [Package Manager](https://github.com/endo9000/awesome-ollama?tab=readme-ov-file#package-manager)
@@ -56,6 +55,13 @@ inspired by [Awesome Python](https://github.com/vinta/awesome-python)
 | [Chatbox](https://github.com/Bin-Huang/Chatbox)                                      |                                                                                                                                  |
 | [WinForm Ollama Copilot](https://github.com/tgraupmann/WinForm_Ollama_Copilot)       |                                                                                                                                  |
 
+## Mobile Apps
+
+|Name/Link|  Description | Install Type |
+|--|--|--|
+|  [Enchanted](https://github.com/AugustDev/enchanted) | Native macOS and iOS app :heavy_check_mark: <br /> | iOS :heavy_check_mark: <br /> macOS :heavy_check_mark: 
+|  [Maid](https://github.com/Mobile-Artificial-Intelligence/maid) | Open Source :heavy_check_mark: <br /> | Android :heavy_check_mark: <br />
+
 ## Miscellaneous
 
 | Name/Link                                                           | Description                                                                                                               | Install Type              |
@@ -69,11 +75,6 @@ inspired by [Awesome Python](https://github.com/vinta/awesome-python)
 | ------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- | ------------------------ |
 | [Ollama Grid Search](https://github.com/dezoito/ollama-grid-search) | Open Source :heavy_check_mark: <br /> Desktop App :heavy_check_mark: <br /> Multi Function :heavy_check_mark: <br /> | Multi-platform downloads |
 
-## Mobile Apps
-|Name/Link|  Description | Install Type |
-|--|--|--|
-|  [Enchanted](https://github.com/AugustDev/enchanted) | Native macOS and iOS app :heavy_check_mark: <br /> | iOS :heavy_check_mark: <br /> macOS :heavy_check_mark: 
-|  [Maid](https://github.com/Mobile-Artificial-Intelligence/maid) | Open Source :heavy_check_mark: <br /> | Android :heavy_check_mark: <br />
 ## Terminal
 
 ## Databases
