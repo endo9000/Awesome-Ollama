@@ -77,6 +77,12 @@ inspired by [Awesome Python](https://github.com/vinta/awesome-python)
 
 ## Terminal
 
+| Name/Link                                                           | Description                                                                                                               | Install Type              |
+| ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- | ------------------------- |
+| [ollamamodelupdater](https://github.com/technovangelist/ollamamodelupdater) | Update ollama models to the latest version in the Library                                                         | Multi-platform downloads  |
+| [ollamarsync](https://github.com/mann1x/ollamarsync/)        | Copy local Ollama models to any accessible remote Ollama instance <br /> Open Source :heavy_check_mark:                          | Multi-platform Python     |
+| [shell-ask](https://github.com/egoist/shell-ask)        | Ask LLM directly from your terminal <br /> Open Source :heavy_check_mark:  <br /> Multi Function :heavy_check_mark:                   | Multi-platform downloads  |
+
 ## Databases
 
 ## Package Manager
