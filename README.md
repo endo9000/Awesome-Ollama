@@ -55,6 +55,7 @@ inspired by [Awesome Python](https://github.com/vinta/awesome-python)
 | [Msty](https://msty.app/)                                                            |                                                                                                                                  |
 | [Chatbox](https://github.com/Bin-Huang/Chatbox)                                      |                                                                                                                                  |
 | [WinForm Ollama Copilot](https://github.com/tgraupmann/WinForm_Ollama_Copilot)       |                                                                                                                                  |
+| [Nosia](https://github.com/nosia-ai/nosia)                                           |                                                                                                                                  |
 
 ## Mobile Apps
 
