@@ -89,6 +89,12 @@ inspired by [Awesome Python](https://github.com/vinta/awesome-python)
 
 ## Package Manager
 
+
+
+| Name/Link                                                           | Description                                                                                                               | Install Type              |
+| ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- | ------------------------- |
+| [ollama-registry-pull-through-proxy](https://github.com/beans-bytes/ollama-registry-pull-through-proxy) | Allows you to cache ollama models locally in your network. Good for companies as it speeds up the pulling of models.                                                       | Docker <br /> Golang binary  |
+
 ## Libraries
 
 ## Extensions & Plugins
