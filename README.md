@@ -98,4 +98,8 @@ inspired by [Awesome Python](https://github.com/vinta/awesome-python)
 
 ## Libraries
 
+| Name/Link                                                           | Description                                                                                                               | Install Type              |
+| ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- | ------------------------- |
+| [Ollama SDK for .NET](https://github.com/tryAGI/Ollama) | Open Source :heavy_check_mark: <br /> Based on OpenAPI specification :heavy_check_mark: <br /> From .Net Framework to .NET 8 including latest features like trimming :heavy_check_mark:  | NuGet |
+
 ## Extensions & Plugins
