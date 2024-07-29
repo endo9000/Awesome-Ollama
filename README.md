@@ -101,5 +101,7 @@ inspired by [Awesome Python](https://github.com/vinta/awesome-python)
 | Name/Link                                                           | Description                                                                                                               | Install Type              |
 | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- | ------------------------- |
 | [Ollama SDK for .NET](https://github.com/tryAGI/Ollama) | Open Source :heavy_check_mark: <br /> Based on OpenAPI specification :heavy_check_mark: <br /> From .Net Framework to .NET 8 including latest features like trimming :heavy_check_mark:  | NuGet |
+| [Ollama SDK for Dart](https://pub.dev/packages/ollama_dart) | Dart client for Ollama API | pub.dev |
+| [LangChain.dart Ollama](https://pub.dev/packages/langchain_ollama) | Ollama integration for LangChain.dart| pub.dev |
 
 ## Extensions & Plugins
