@@ -83,6 +83,7 @@ inspired by [Awesome Python](https://github.com/vinta/awesome-python)
 | Name/Link                                                           | Description                                                                                                               | Install Type              |
 | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- | ------------------------- |
 | [bb7](https://github.com/drunkwcodes/bb7) | An ollama chat bot with voices. (TTS)  | Multi-platform Python
+| [gibber](https://github.com/maglore9900/gibber) | A speech-to-text (STT) & text-to-speech (TTS) wrapper for Ollama and OpenAI, with options for customization | Multi-platform Python |
 | [ollamamodelupdater](https://github.com/technovangelist/ollamamodelupdater) | Update ollama models to the latest version in the Library                                                         | Multi-platform downloads  |
 | [osync](https://github.com/mann1x/osync/)        | Copy local Ollama models to any accessible remote Ollama instance, C# .NET 8 <br /> Open Source :heavy_check_mark: <br /> Windows :heavy_check_mark: <br /> macOS :heavy_check_mark: <br /> Linux x64/arm64 :heavy_check_mark: | Multi-platform downloads  |
 | [ollamarsync](https://github.com/mann1x/ollamarsync/)        | Copy local Ollama models to any accessible remote Ollama instance <br /> Open Source :heavy_check_mark:                          | Multi-platform Python     |
