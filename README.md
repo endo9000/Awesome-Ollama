@@ -80,14 +80,14 @@ inspired by [Awesome Python](https://github.com/vinta/awesome-python)
 
 ## Terminal
 
-| Name/Link                                                           | Description                                                                                                               | Install Type              |
-| ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- | ------------------------- |
-| [bb7](https://github.com/drunkwcodes/bb7) | An ollama chat bot with voices. (TTS)  | Multi-platform Python
-| [gibber](https://github.com/maglore9900/gibber) | A speech-to-text (STT) & text-to-speech (TTS) wrapper for Ollama and OpenAI, with options for customization | Multi-platform Python |
-| [ollamamodelupdater](https://github.com/technovangelist/ollamamodelupdater) | Update ollama models to the latest version in the Library                                                         | Multi-platform downloads  |
-| [osync](https://github.com/mann1x/osync/)        | Copy local Ollama models to any accessible remote Ollama instance, C# .NET 8 <br /> Open Source :heavy_check_mark: <br /> Windows :heavy_check_mark: <br /> macOS :heavy_check_mark: <br /> Linux x64/arm64 :heavy_check_mark: | Multi-platform downloads  |
-| [ollamarsync](https://github.com/mann1x/ollamarsync/)        | Copy local Ollama models to any accessible remote Ollama instance <br /> Open Source :heavy_check_mark:                          | Multi-platform Python     |
-| [shell-ask](https://github.com/egoist/shell-ask)        | Ask LLM directly from your terminal <br /> Open Source :heavy_check_mark:  <br /> Multi Function :heavy_check_mark:                   | Multi-platform downloads  |
+| Name/Link                                                                   | Description                                                                                                                                                                                                                    | Install Type             |
+| --------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------ |
+| [bb7](https://github.com/drunkwcodes/bb7)                                   | An ollama chat bot with voices. (TTS)                                                                                                                                                                                          | Multi-platform Python    |
+| [gibber](https://github.com/maglore9900/gibber)                             | A speech-to-text (STT) & text-to-speech (TTS) wrapper for Ollama and OpenAI, with options for customization. <br /> Open Source :heavy_check_mark:                                                                             | Multi-platform Python    |
+| [ollamamodelupdater](https://github.com/technovangelist/ollamamodelupdater) | Update ollama models to the latest version in the Library                                                                                                                                                                      | Multi-platform downloads |
+| [osync](https://github.com/mann1x/osync/)                                   | Copy local Ollama models to any accessible remote Ollama instance, C# .NET 8 <br /> Open Source :heavy_check_mark: <br /> Windows :heavy_check_mark: <br /> macOS :heavy_check_mark: <br /> Linux x64/arm64 :heavy_check_mark: | Multi-platform downloads |
+| [ollamarsync](https://github.com/mann1x/ollamarsync/)                       | Copy local Ollama models to any accessible remote Ollama instance <br /> Open Source :heavy_check_mark:                                                                                                                        | Multi-platform Python    |
+| [shell-ask](https://github.com/egoist/shell-ask)                            | Ask LLM directly from your terminal <br /> Open Source :heavy_check_mark:  <br /> Multi Function :heavy_check_mark:                                                                                                            | Multi-platform downloads |
 
 ## Databases
 
@@ -101,10 +101,13 @@ inspired by [Awesome Python](https://github.com/vinta/awesome-python)
 
 ## Libraries
 
-| Name/Link                                                           | Description                                                                                                               | Install Type              |
-| ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- | ------------------------- |
-| [Ollama SDK for .NET](https://github.com/tryAGI/Ollama) | Open Source :heavy_check_mark: <br /> Based on OpenAPI specification :heavy_check_mark: <br /> From .Net Framework to .NET 8 including latest features like trimming :heavy_check_mark:  | NuGet |
-| [Ollama SDK for Dart](https://pub.dev/packages/ollama_dart) | Dart client for Ollama API | pub.dev |
-| [LangChain.dart Ollama](https://pub.dev/packages/langchain_ollama) | Ollama integration for LangChain.dart| pub.dev |
+| Name/Link                                                          | Description                                                                                                                                                                             | Install Type |
+| ------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ |
+| [Ollama SDK for .NET](https://github.com/tryAGI/Ollama)            | Open Source :heavy_check_mark: <br /> Based on OpenAPI specification :heavy_check_mark: <br /> From .Net Framework to .NET 8 including latest features like trimming :heavy_check_mark: | NuGet        |
+| [Ollama SDK for Dart](https://pub.dev/packages/ollama_dart)        | Dart client for Ollama API                                                                                                                                                              | pub.dev      |
+| [LangChain.dart Ollama](https://pub.dev/packages/langchain_ollama) | Ollama integration for LangChain.dart                                                                                                                                                   | pub.dev      |
 
 ## Extensions & Plugins
+| Name/Link                                            | Description                                                                                            | Install Type |
+| ---------------------------------------------------- | ------------------------------------------------------------------------------------------------------ | ------------ |
+| [SpaceLlama](https://github.com/tcsenpai/spacellama) |  A Firefox extension that leverages Ollama to summarize webpages. <br /> Open Source :heavy_check_mark:  | extension    |
